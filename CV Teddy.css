@@ -1,0 +1,175 @@
+body { 
+    font-family : 'Open Sans', sans-serif; 
+    display : flex; 
+    justify-content : center; 
+} 
+div { 
+
+} 
+.CV { 
+    display : flex; 
+} 
+.Gauche { 
+  background-color : orange; 
+  color : white; 
+  display : flex; 
+  justify-content : space-between; 
+  flex-direction : column; 
+  padding-left : 25px; 
+  padding-right : 25px; 
+} 
+.Séparation { 
+    background-color : white; 
+} 
+.Interêt { 
+    background-color : white; 
+}
+.Droite { 
+    display : flex; 
+    justify-content : flex-start; 
+    flex-direction : column; 
+    padding-left : 25px; 
+    padding-right : 25px; 
+} 
+.Présentation { 
+    display : flex; 
+    justify-content : space-between; 
+    flex-direction : column; 
+} 
+.Formations { 
+    background-color : orange; 
+    color : white; 
+    display : flex; 
+    justify-content : center; 
+    padding-right : 25px; 
+    padding-left : 25px; 
+} 
+.Développeur { 
+    display : flex; 
+} 
+.CDA { 
+    padding-left : 5em; 
+}
+.Concepteur { 
+    font-weight : bold; 
+} 
+.BTS { 
+    display : flex; 
+} 
+.SIO { 
+    padding-left : 5em; 
+} 
+.Services { 
+font-weight : bold; 
+} 
+.SIMPLON { 
+    display : flex; 
+} 
+.Culture { 
+    padding-left : 1em; 
+} 
+.ARTIS { 
+    font-weight : bold; 
+}
+.CFA { 
+    display : flex; 
+} 
+.MarketingNumérique { 
+    padding-left : 8em; 
+} 
+.Certification { 
+    font-weight : bold; 
+} 
+.Baccalauréat { 
+    display : flex; 
+} 
+.Lycée { 
+    padding-left : 5em; 
+} 
+.STMG { 
+    font-weight : bold; 
+} 
+.Anglais { 
+    display : flex; 
+    justify-content : space-between; 
+} 
+.Espagnol { 
+    display : flex; 
+} 
+.Basique { 
+    padding-left : 14em; 
+} 
+.Expériences { 
+    background-color : orange; 
+    color : white; 
+    display : flex; 
+    justify-content : center; 
+    padding-right : 25px; 
+    padding-left : 25px; 
+} 
+.MetaFactory { 
+    display : flex; 
+}
+.DatesStage {  
+
+} 
+.StageMetaFactory { 
+    padding-left : 5em; 
+} 
+.Stage { 
+    font-weight : bold; 
+} 
+.EnquêteurTéléphonique { 
+    display : flex; 
+} 
+.LeTerrain { 
+    padding-left : 2em; 
+}
+.Enquêteur { 
+    font-weight : bold; 
+}
+.Hôte { 
+    display : flex; 
+} 
+.Saint { 
+    padding-left : 5em; 
+} 
+.Acceuil { 
+    font-weight : bold; 
+}
+.GLOBE { 
+    display : flex; 
+} 
+.Street { 
+    padding-left : 5em; 
+} 
+.Marketing { 
+    font-weight : bold; 
+}
+.DASES { 
+    display : flex; 
+} 
+.Ville { 
+    padding-left : 80px; 
+} 
+.Volontaire { 
+    font-weight : bold; 
+}
+.Animateur { 
+    padding-left : 11em; 
+} 
+.Gestes { 
+    font-weight : bold; 
+}
+.COCCINET { 
+    display : flex; 
+} 
+.Découverte { 
+    padding-left : 5em; 
+} 
+.Stage { 
+    font-weight : bold; 
+}
+.HTML { 
+    padding-left : 12em; 
+} 
